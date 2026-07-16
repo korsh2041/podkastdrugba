@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <!-- ОСНОВНАЯ ИНФОРМАЦИЯ О ПОДКАСТЕ -->
+        <title>Название вашего подкаста</title>
+        <link>https://github.com/korsh2041/podkastdrugba</link>
+        <description>Краткое описание вашего подкаста. Что это за подкаст и о чём он.</description>
+        <language>ru</language>
+        <itunes:author>Ваше имя или название студии</itunes:author>
+        <itunes:summary>Подробное описание подкаста для iTunes.</itunes:summary>
+        <itunes:image href="https://via.placeholder.com/1400x1400.png?text=Podcast+Cover"/>
+        
+        <!-- ОДИН ЭПИЗОД (ВЫПУСК) -->
+        <item>
+            <title>Дружба</title>
+            <description>Построение дружественных связей и рассуждение внутри представленной темы</description>
+            <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/korsh2041/podkastdrugba/main/podkast_drugba.mp3" length="23408640" type="audio/mpeg"/>
+            <guid>https://raw.githubusercontent.com/korsh2041/podkastdrugba/main/podkast_drugba.mp3</guid>
+            <itunes:duration>00:48:46</itunes:duration>
+        </item>
+    </channel>
+</rss>
