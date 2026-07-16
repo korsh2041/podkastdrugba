@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <!-- ОСНОВНАЯ ИНФОРМАЦИЯ О ПОДКАСТЕ -->
-        <title>Название вашего подкаста</title>
+        <title>Подкасты на тему "Дружба"</title>
         <link>https://github.com/korsh2041/podkastdrugba</link>
         <description>Краткое описание вашего подкаста. Что это за подкаст и о чём он.</description>
         <language>ru</language>
@@ -10,7 +9,7 @@
         <itunes:summary>Подробное описание подкаста для iTunes.</itunes:summary>
         <itunes:image href="https://via.placeholder.com/1400x1400.png?text=Podcast+Cover"/>
         
-        <!-- ОДИН ЭПИЗОД (ВЫПУСК) -->
+        <ЭПИЗОД 1>
         <item>
             <title>Дружба</title>
             <description>Построение дружественных связей и рассуждение внутри представленной темы</description>
